@@ -1,0 +1,4 @@
+Concepts of the game:
+
+1. GL driver
+	a. Coordinates in the game are the same as abstract coordinates in GL world
